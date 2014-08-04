@@ -26,7 +26,7 @@ neighbor 10.0.5.10 {
 }
 ```
 
-you would launch with:
+and assuming route-smash.py was located in the same directory you would launch with:
 
 ```
 exabgp exabgp.conf
